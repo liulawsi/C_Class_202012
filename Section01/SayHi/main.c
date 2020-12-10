@@ -9,7 +9,7 @@
  */
  int main()
  {
-     char name[50];     //變數宣告
+     char name[50];     //變數宣告，存放名字，最多50字
 
      printf("你是誰？");    //顯示到Console
      scanf("%s", name);     //輸入名字

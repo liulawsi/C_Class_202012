@@ -3,5 +3,7 @@
 	<Workspace title="Section01">
 		<Project filename="HelloWorld/HelloWorld.cbp" />
 		<Project filename="poem/poem.cbp" />
+		<Project filename="SayHi/SayHi.cbp" />
+		<Project filename="Multiply/Multiply.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
