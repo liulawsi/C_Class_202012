@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607590339 source:d:\c_projects\section01\sayhi\main.c
+	<stdio.h>
+	<stdlib.h>
+
