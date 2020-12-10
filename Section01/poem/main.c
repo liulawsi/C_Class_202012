@@ -3,15 +3,15 @@
 
 int main()
 {
-    printf("\t§É«e©ú¤ë¥ú  ºÃ¦ü¦a¤WÁ÷\n");
-	printf("\tÁ|ÀY±æ©ú¤ë  §CÀY«ä«K·í\n");
-	printf("\t\t\t§õ¶Â ÀR©]«ä\n\n");
-	printf("  §C  Á|  ºÃ  §É\n");
-	printf("  ÀY  ÀY  ¦ü  «e  §õ\n");
-	printf("  «ä  ±æ  ¦a  ©ú  ¶Â\n");
-	printf("  «K  ©ú  ¤W  ¤ë\n");
-	printf("  ·í  ¤ë  Á÷  ¥ú  ÀR\n");
-	printf("                  ©]\n");
-	printf("                  «ä\n");
+    printf("\tåºŠå‰æ˜æœˆå…‰  ç–‘ä¼¼åœ°ä¸Šéœœ\n");
+	printf("\tèˆ‰é ­æœ›æ˜æœˆ  ä½é ­æ€ä¾¿ç•¶\n");
+	printf("\t\t\tæé»‘ éœå¤œæ€\n\n");
+	printf("  ä½  èˆ‰  ç–‘  åºŠ\n");
+	printf("  é ­  é ­  ä¼¼  å‰  æ\n");
+	printf("  æ€  æœ›  åœ°  æ˜  é»‘\n");
+	printf("  ä¾¿  æ˜  ä¸Š  æœˆ\n");
+	printf("  ç•¶  æœˆ  éœœ  å…‰  éœ\n");
+	printf("                  å¤œ\n");
+	printf("                  æ€\n");
     return 0;
 }
