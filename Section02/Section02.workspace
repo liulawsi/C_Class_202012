@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Section02">
+		<Project filename="IfMultiple/IfMultiple.cbp" />
+		<Project filename="ScorePass/ScorePass.cbp" />
+		<Project filename="BigerI/BigerI.cbp" />
+		<Project filename="BiggerII/BiggerII.cbp" />
+		<Project filename="BiggerIII/BiggerIII.cbp" />
+		<Project filename="SeasonsI/SeasonsI.cbp" />
+		<Project filename="Grades/Grades.cbp" />
+		<Project filename="TicketI/TicketI.cbp" />
+		<Project filename="TicketII/TicketII.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

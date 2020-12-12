@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607766736 source:d:\c_projects\section02\ticketi\main.c
+	<stdio.h>
+	<stdlib.h>
+

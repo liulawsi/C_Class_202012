@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607757044 source:d:\c_projects\section01\scores\main.c
+	<stdio.h>
+	<stdlib.h>
+

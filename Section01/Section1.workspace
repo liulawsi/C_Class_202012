@@ -6,5 +6,8 @@
 		<Project filename="SayHi/SayHi.cbp" />
 		<Project filename="Multiply/Multiply.cbp" />
 		<Project filename="Ages/Ages.cbp" />
+		<Project filename="IOPractice/IOPractice.cbp" />
+		<Project filename="Scores/Scores.cbp" />
+		<Project filename="RectArea/RectArea.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
