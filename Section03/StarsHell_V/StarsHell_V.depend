@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607838668 source:d:\c_projects\section03\starshell_v\main.c
+	<stdio.h>
+	<stdlib.h>
+

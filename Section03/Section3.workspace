@@ -1,4 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_workspace_file>
-	<Workspace title="Workspace" />
+	<Workspace title="Section3">
+		<Project filename="StarsHell_I/StarsHell_I.cbp" />
+		<Project filename="ShowNumbers/ShowNumbers.cbp" />
+		<Project filename="Sum2N_I/Sum2N_I.cbp" />
+		<Project filename="Sum2N_II/Sum2N_II.cbp" />
+		<Project filename="pow/pow.cbp" />
+		<Project filename="Factorial/Factorial.cbp" />
+		<Project filename="Factors/Factors.cbp" />
+		<Project filename="StarsHell_II/StarsHell_II.cbp" />
+		<Project filename="PrimeNumbers_I/PrimeNumbers_I.cbp" />
+		<Project filename="StarsHell_V/StarsHell_V.cbp" />
+		<Project filename="StarsHell_IV/StarsHell_IV.cbp" />
+		<Project filename="StarsHell_III/StarsHell_III.cbp" />
+		<Project filename="MultiplicationTable_I/MultiplicationTable_I.cbp" />
+		<Project filename="StarsHell_VI/StarsHell_VI.cbp" />
+		<Project filename="MultiplicationTable_II/MultiplicationTable_II.cbp" />
+		<Project filename="UltimatePassword/UltimatePassword.cbp" />
+		<Project filename="PrimeNumber_II/PrimeNumber_II.cbp" />
+	</Workspace>
 </CodeBlocks_workspace_file>
