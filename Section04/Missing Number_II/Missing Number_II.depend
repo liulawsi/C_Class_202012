@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607930483 source:d:\c_projects\section04\missing number_ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

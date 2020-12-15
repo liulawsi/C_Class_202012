@@ -2,5 +2,16 @@
 <CodeBlocks_workspace_file>
 	<Workspace title="Section04">
 		<Project filename="TenNumbers/TenNumbers.cbp" />
+		<Project filename="SumAvg/SumAvg.cbp" />
+		<Project filename="MaxMin/MaxMin.cbp" />
+		<Project filename="ReverseInt/ReverseInt.cbp" />
+		<Project filename="PrimeNumber_III/PrimeNumber_III.cbp" />
+		<Project filename="ArraySearch/ArraySearch.cbp" />
+		<Project filename="Combinations/Combinations.cbp" />
+		<Project filename="Missing Number_I/Missing Number_I.cbp" />
+		<Project filename="Missing Number_II/Missing Number_II.cbp" />
+		<Project filename="Missing Number_III/Missing Number_III.cbp" />
+		<Project filename="TwoSum/TwoSum.cbp" />
+		<Project filename="BubbleSort/BubbleSort.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
