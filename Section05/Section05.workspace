@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Section05">
+		<Project filename="SayHi_II/SayHi_II.cbp" />
+		<Project filename="StarsFunc_I/StarsFunc_I.cbp" />
+		<Project filename="StarsFunc_II/StarsFunc_II.cbp" />
+		<Project filename="StarsFunc_III/StarsFunc_III.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
