@@ -13,5 +13,7 @@
 		<Project filename="Missing Number_III/Missing Number_III.cbp" />
 		<Project filename="TwoSum/TwoSum.cbp" />
 		<Project filename="BubbleSort/BubbleSort.cbp" />
+		<Project filename="ScoresShow/ScoresShow.cbp" />
+		<Project filename="Pascal/Pascal.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
