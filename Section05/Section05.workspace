@@ -5,5 +5,12 @@
 		<Project filename="StarsFunc_I/StarsFunc_I.cbp" />
 		<Project filename="StarsFunc_II/StarsFunc_II.cbp" />
 		<Project filename="StarsFunc_III/StarsFunc_III.cbp" />
+		<Project filename="StarValley/StarValley.cbp" />
+		<Project filename="BMI/BMI.cbp" />
+		<Project filename="Power/Power.cbp" />
+		<Project filename="MaxFunc/MaxFunc.cbp" />
+		<Project filename="FactorFunc/FactorFunc.cbp" />
+		<Project filename="FibonacciFunc/FibonacciFunc.cbp" />
+		<Project filename="Maze/Maze.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
