@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608176913 source:d:\1.backup\documents\github\c_class_202012\section05\maze\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

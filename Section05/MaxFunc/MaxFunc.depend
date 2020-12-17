@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608173951 source:d:\1.backup\documents\github\c_class_202012\section05\maxfunc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
